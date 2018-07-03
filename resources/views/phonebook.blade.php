@@ -13,6 +13,7 @@
 		<div class="container">
 
 			<router-view></router-view>
+			<add></add>
 			
 		</div>
 			
